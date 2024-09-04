@@ -1,0 +1,9 @@
+[package]
+name = "basic"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+device-derive = { path = "../device-derive" }
+foundation = { path = "../foundation" }
+gate = { path = "../gate" }
